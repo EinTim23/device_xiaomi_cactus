@@ -3,7 +3,7 @@
   	"remote": "github",
   	"repository": "wulan17/android_device_xiaomi_mt6765-common",
   	"target_path": "device/xiaomi/mt6765-common",
-  	"branch": "11"
+  	"branch": "dev/11"
   },
   {
   	"remote": "github",
@@ -15,6 +15,6 @@
   	"remote": "github",
   	"repository": "wulan17/proprietary_vendor_xiaomi",
   	"target_path": "vendor/xiaomi",
-  	"branch": "11"
+  	"branch": "dev/11"
   }
 ]
