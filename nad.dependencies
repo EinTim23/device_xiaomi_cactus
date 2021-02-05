@@ -15,7 +15,7 @@
   	"remote": "github",
   	"repository": "wulan17/proprietary_vendor_xiaomi",
   	"target_path": "vendor/xiaomi",
-  	"branch": "ten"
+  	"branch": "10"
   },
   {
   	"remote": "github",
