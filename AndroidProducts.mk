@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/nad_cactus.mk
+    $(LOCAL_DIR)/lineage_cactus.mk
 
 COMMON_LUNCH_CHOICES := \
-    nad_cactus-user \
-    nad_cactus-userdebug \
-    nad_cactus-eng
+    lineage_cactus-user \
+    lineage_cactus-userdebug \
+    lineage_cactus-eng
