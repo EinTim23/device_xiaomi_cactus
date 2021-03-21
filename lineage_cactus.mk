@@ -18,10 +18,10 @@
 $(call inherit-product, device/xiaomi/cactus/device.mk)
 
 # Inherit some common Lineage stuff.
-$(call inherit-product, vendor/nusantara/config/common_full_phone.mk)
+$(call inherit-product, vendor/lineage/config/common_full_phone.mk)
 
 # Official tag
-NAD_BUILD_TYPE := OFFICIAL
+LINEAGE_BUILD_TYPE := UNOFFICIAL
 
 # Boot animaton
 TARGET_BOOT_ANIMATION_RES := 720
@@ -30,7 +30,7 @@ USE_PIXEL_CHARGING := true
 
 # Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := cactus
-PRODUCT_NAME := nad_cactus
+PRODUCT_NAME := lineage_cactus
 PRODUCT_BRAND := xiaomi
 PRODUCT_MODEL := Redmi 6A
 PRODUCT_MANUFACTURER := Xiaomi
